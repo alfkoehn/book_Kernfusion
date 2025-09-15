@@ -1,3 +1,5 @@
+## originally from https://github.com/github/gitignore/blob/main/TeX.gitignore
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
